@@ -320,6 +320,11 @@ header .navbar ul li:hover{
 .projects .box-container .box:hover img{
     transform: scale(1.2);
 }
+.box-container .box .post{
+    font-size: 1.5rem;
+    color:#fff;
+    text-align: center;
+}
 
 /* my projects styling end */
 
